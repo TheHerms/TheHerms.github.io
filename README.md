@@ -1,1 +1,1 @@
-# TheHerms.github.io/prime_challenge.html
+http://TheHerms.github.io/prime_challenge.html
