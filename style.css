@@ -1,17 +1,17 @@
 div {
-    font-family:Arial;
+    font-family: Arial, Verdana, sans-serif;
 }
-
+body {
+    font-size: 14px;
+}
 h1 {
     font-size: 28px;
 }
-
-body {
-    background-color: gray;
-}
-
-li {
+h2 {
     font-size: 24px;
+}
+li {
+    font-size: 20px;
 }
 
 
