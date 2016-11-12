@@ -2,7 +2,12 @@ div {
     font-family:Arial;
 }
 
-h1 { font-size: 66px;
+h1 { 
+    font-size: 66px;
+}
+
+body {
+    background-color: gray;
     
 }
 
