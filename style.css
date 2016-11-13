@@ -5,7 +5,9 @@ body {
     background-color: silver;
 }
 h1 {
+    font-family: Georgia, Times, times-new-roman;
     font-size: 28px;
+    font-weight: bold;
 }
 h2 {
     font-size: 24px;
